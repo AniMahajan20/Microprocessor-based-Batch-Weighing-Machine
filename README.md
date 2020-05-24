@@ -4,7 +4,7 @@ It also tells us the weight of the object (in kgs) up to two decimal places.
 
 This repository contains the ALP that is linked with the simulated hardware design made using Proteus and a report containing all the nessesary information.
 
-#Problem Statement
+# Problem Statement
 
 A microprocessor system is to be designed as a batch weighing machine. The system is interfaced to three load cells by means of a 10-bit A/D converter.
 
